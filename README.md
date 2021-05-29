@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dasShounak
+- 👋 Hi, I’m Shounak
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any front-end projects
