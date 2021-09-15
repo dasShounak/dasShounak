@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Shounak
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any front-end projects
-- 📫 Contact me [here](https://dasshounak.github.io/contact.html).
+![header image](https://raw.githubusercontent.com/dasShounak/dasShounak/main/Shounak.png)
+# Hi, I'm Shounak 👋
 
-<!---
-dasShounak/dasShounak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasShounak&show_icons=true&title_color=ffe747&bg_color=1E293B&text_color=E2E8F0&icon_color=ffe747&hide_border=true&custom_title=Stats&line_height=33)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasShounak&title_color=ffe747&bg_color=1E293B&text_color=E2E8F0&icon_color=ffe747&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
