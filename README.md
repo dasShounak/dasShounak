@@ -32,6 +32,8 @@ I am a multilingual developer
 - [Wasted 3 hours to save 3 keystrokes](https://shounakdas.netlify.app/blog/2023-03-19-wasted-3-hours-to-save-3-keystrokes/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 <div id="footer" align="left">
   <div id="badges">
     <a href="linkedin.com/in/dasshounak/">
@@ -47,5 +49,6 @@ I am a multilingual developer
       <img alt="Codepen Badge" src="https://img.shields.io/badge/codepen-grey?style=for-the-badge"/>
     </a>
   </div>
+  <br />
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JxOHhubnk2ZzhlZmNzMHZ4bnJ2ZjJzZHZsaHoyZjhnYm0xbXp2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K6ebxluteo5mz6WhLi/giphy.gif" alt"I almost feel like that was about me" />
 </div>
