@@ -27,7 +27,9 @@ I am a multilingual developer
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Building a Blog with Astro](https://shounakdas.netlify.app/blog/2023-11-24-building-a-blog-with-astro/)
+- [Demystifying Network Programming in C/C++: A Practical Guide](https://shounakdas.netlify.app/blog/2023-11-17-network-programming-basics-in-c-c/)
+- [Wasted 3 hours to save 3 keystrokes](https://shounakdas.netlify.app/blog/2023-03-19-wasted-3-hours-to-save-3-keystrokes/)
 <!-- BLOG-POST-LIST:END -->
 
 <div id="footer" align="left">
