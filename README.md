@@ -1,16 +1,16 @@
 # About me
-The most practical "About me" section ever:
-- Name: Shounak Das
-- Age: 22 years
-- Sex: Male
-- Employment status: Looking for a _cybersecurity_ job
-- Field of study: Computer Science and Engineering with specialization in _Cybersecurity_
-- Interests: Cybersecurity, Webdev, Football and F1
-- Loves: Coffee, Cameras and Dogs
-- Hates: Cats and Wasps
+The most practical _"About me"_ section ever:
+- **Name:** Shounak Das
+- **Age:** 22 years
+- **Sex:** Male
+- **Employment status:** Looking for a _cybersecurity_ job
+- **Field of study:** Computer Science and Engineering with specialization in _Cybersecurity_
+- **Interests:** Cybersecurity, Webdev, Football and F1
+- **Loves:** Coffee, Cameras and Dogs
+- **Hates:** Cats and Wasps
 
 # Programming languages
-I am a multilingual developer
+I am a _multilingual developer_
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
