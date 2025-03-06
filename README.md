@@ -23,6 +23,9 @@ I am a _multilingual developer_
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
 
+# Certifications
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/MXE0A45QXXYB)
+
 # Github stats
 ![dasShounak's Stats](https://github-readme-stats.vercel.app/api?username=dasShounak&theme=dark&show_icons=true&hide_border=true&count_private=false)
 ![dasShounak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasShounak&theme=dark&show_icons=true&hide_border=true&layout=compact)
