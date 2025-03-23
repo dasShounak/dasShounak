@@ -32,10 +32,10 @@ I am a _multilingual developer_
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [THM Bounty Hunter Writeup](https://shounakdas.netlify.app/blog/2025-03-22-thm-bounty-hunter-writeup/)
 - [THM Simple CTF Writeup](https://shounakdas.netlify.app/blog/2025-03-21-thm-simple-ctf/)
 - [THM Blue Writeup](https://shounakdas.netlify.app/blog/2025-03-21-thm-blue-writeup/)
 - [Building a Blog with Astro](https://shounakdas.netlify.app/blog/2023-11-24-building-a-blog-with-astro/)
-- [Demystifying Network Programming in C/C++: A Practical Guide](https://shounakdas.netlify.app/blog/2023-11-17-network-programming-basics-in-c-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
