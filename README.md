@@ -32,10 +32,10 @@ I am a _multilingual developer_
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [THM Bounty Hunter Writeup](https://shounakdas.netlify.app/blog/2025-03-22-thm-bounty-hunter-writeup/)
-- [THM Simple CTF Writeup](https://shounakdas.netlify.app/blog/2025-03-21-thm-simple-ctf/)
-- [THM Blue Writeup](https://shounakdas.netlify.app/blog/2025-03-21-thm-blue-writeup/)
-- [Building a Blog with Astro](https://shounakdas.netlify.app/blog/2023-11-24-building-a-blog-with-astro/)
+- [How to sort Blogs by Publish Date in an Astro Blog](https://shounakdas.netlify.app/blog/2025-04-29-how-to-sort-blogs-by-publish-date-in-an-astro-blog/)
+- [THM Ice Writeup](https://shounakdas.netlify.app/blog/2025-04-29-thm-ice-writeup/)
+- [THM The Cod Caper Writeup](https://shounakdas.netlify.app/blog/2025-04-29-thm-the-cod-caper-writeup/)
+- [THM Agent Sudo Writeup](https://shounakdas.netlify.app/blog/2025-04-29-thm-agent-sudo-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
