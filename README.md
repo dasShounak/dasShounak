@@ -32,10 +32,10 @@ I am a _multilingual developer_
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Intro to AWS IAM Enumeration - PwnedLabs](https://shounakdas.netlify.app/blog/2025-06-04-intro-to-aws-iam-enumeration-pwnedlabs/)
+- [AWS S3 Enumeration Basics - PwnedLabs](https://shounakdas.netlify.app/blog/2025-06-04-aws-s3-enumeration-basics-pwnedlabs/)
 - [Identifying AWS Account ID from a public S3 bucket - PwnedLabs](https://shounakdas.netlify.app/blog/2025-05-25-identifying-aws-account-id-from-a-public-s3-bucket-pwnedlabs/)
 - [Breach in the Cloud Writeup - PwnedLabs](https://shounakdas.netlify.app/blog/2025-05-23-pwnedlabs-breach-in-the-cloud-writeup/)
-- [Building a Cloud-Based Home SOC Lab with Microsoft Sentinel](https://shounakdas.netlify.app/blog/2025-04-30-building-a-cloud-based-home-soc-lab-with-microsoft-sentinel/)
-- [How to sort Blogs by Publish Date in an Astro Blog](https://shounakdas.netlify.app/blog/2025-04-29-how-to-sort-blogs-by-publish-date-in-an-astro-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
