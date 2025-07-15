@@ -45,13 +45,13 @@ I am a _multilingual developer_
   <div id="badges">
     <a href="linkedin.com/in/dasshounak/">
       <img alt="Linkedin Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&color=blue">
-    </a>
+<!--     </a>
     <a href="https://www.reddit.com/user/dasShounak/">
       <img alt="Reddit Badge" src="https://img.shields.io/badge/reddit-orange?style=for-the-badge&color=orange">
-    </a>
-    <a href="https://x.com/lordc3rb">
+    </a> -->
+<!--     <a href="https://x.com/lordc3rb">
       <img alt="X Badge" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge"/>
-    </a>
+    </a> -->
     <a href="https://codepen.io/dasshounak/b">
       <img alt="Codepen Badge" src="https://img.shields.io/badge/codepen-grey?style=for-the-badge"/>
     </a>
