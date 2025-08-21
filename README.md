@@ -3,7 +3,6 @@ The most practical _"About me"_ section ever:
 - **Name:** Shounak Das
 - **Age:** 22 years
 - **Sex:** Male
-- **Employment status:** Looking for a _cybersecurity_ job
 - **Field of study:** Computer Science and Engineering with specialization in _Cybersecurity_
 - **Interests:** Cybersecurity, Webdev, Football and F1
 - **Loves:** Coffee, Cameras and Dogs
